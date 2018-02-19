@@ -34,7 +34,7 @@ public class Main {
      }
      else if(dis==0){
     	 double x = -b/(2*a);
-    	 System.out.println("the is one solution x = " +x);
+    	 System.out.println("there is one solution x = " +x);
      }    		
 	}
 }
